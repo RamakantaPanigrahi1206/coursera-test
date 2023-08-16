@@ -1,8 +1,11 @@
 git resource:
 https://github.com/jhu-ep-coursera/fullstack-course5
 
-git hub page for hosting:
+github page for hosting:
 https://ramakantapanigrahi1206.github.io/coursera-test/
+
+Assignments:
+https://ramakantapanigrahi1206.github.io/coursera-test/assignment1/
 
 browser sync command in CMD prompt: browser-sync start --server --directory --files "**/*"
 http://localhost:3000/Lecture11/index.html
