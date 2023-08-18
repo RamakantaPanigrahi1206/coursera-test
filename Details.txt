@@ -1,7 +1,7 @@
 git resource:
 https://github.com/jhu-ep-coursera/fullstack-course5
 
-github page for hosting:
+github page for hosting: ramakanta.panigrahi1206@gmail.com
 https://ramakantapanigrahi1206.github.io/coursera-test/
 
 Assignments:
